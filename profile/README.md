@@ -2,6 +2,6 @@
 
 org name means
 
-cat: 🐱
-chat: 🐱 French
+- cat: 🐱
+- chat: 🐱 French
 
